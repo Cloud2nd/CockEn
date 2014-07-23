@@ -1,0 +1,8 @@
+bin/
+.apt_generated/
+.settings/
+gen/
+.classpath
+.factorypath
+.project
+/project.properties
